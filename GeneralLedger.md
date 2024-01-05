@@ -16,6 +16,18 @@ A *T-Account* is a visual representation of an Account.
 
 LHS increase when debited, decreased when credited
 
+so cash (assets) looks like this
+
+| Debit | Credit |
+| ----------- | ----------- |
+| Opening Bal |  |
+|  | Bill Payment |
+|  | New Supplies |
+| Closing Bal |  |
+
+Balance => total at point in time e.g. Opening, Closing
+
+
 ## Accural method of Accounting
 Revenue is recognised as it's earned. Expenses are recorded as they are included.
 
