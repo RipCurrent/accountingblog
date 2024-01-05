@@ -6,7 +6,7 @@ The Subledgers provide more detail for this.
 
 ## Acccount 
 Is a place where we can record, sort and store all transactions that affect a related group of items.
-A *T-Account* is a visual representation of an Account.
+A **T-Account** is a visual representation of an Account.
 
 | Debit | Credit |
 | ----------- | ----------- |
@@ -27,13 +27,21 @@ so cash (assets) looks like this
 
 Balance => total at point in time e.g. Opening, Closing
 
+## Jounral Entries
+T-Accounts are too simple. use Journals. 2 side to each entry
+Journal template:
+- ID/Number
+- Date
+- Accounts (debit and credit)
+- Debit
+- Credit
+
+### Posting 
+Manual Journal entry -> post directly to general ledger, skip past sub ledgers. Use this for corrections and unique transactions.
+Automatic Journal entry -> you pay an invoice. Entry in Cash and AP accounts. Totals for these accounts trigger corresponding accountss in General Ledger to be updated.
 
 ## Accural method of Accounting
 Revenue is recognised as it's earned. Expenses are recorded as they are included.
-
-## Posting 
-Manual Journal entry -> post directly to general ledger, skip past sub ledgers
-Automatic Journal entry -> you pay an invoice. Entry in Cash and AP accounts. Totals for these accounts trigger corresponding accountss in General Ledger to be updated.
 
 ## Accounts Payable
 This is a control account held in General Ledger. Shows the balance.
