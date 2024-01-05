@@ -1,2 +1,2 @@
-# accountingblog
-Description of Accounting terms
+# Accounting Blog
+Description of Accounting terms. concepts and processes
