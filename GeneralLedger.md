@@ -15,6 +15,15 @@ A **T-Account** is a visual representation of an Account.
 | Assets | Revenue |
 
 LHS increase when debited, decreased when credited
+Revenue, Expenses & Dividends = **temporary** accounts
+Assets, Liabilities & Equities = **permanent** accounts. 
+
+### Permanent Accounts
+Closing balance brought forward to next period.
+
+### Temporary Accounts
+Closing Balance always needs to be reset to zero at end of accounting period.
+Use *Closing entries* to do this.
 
 so cash (assets) looks like this
 
@@ -44,6 +53,6 @@ Automatic Journal entry -> you pay an invoice. Entry in Cash and AP accounts. To
 Revenue is recognised as it's earned. Expenses are recorded as they are included.
 
 ## Accounts Payable
-This is a control account held in General Ledger. Shows the balance.
+This is a control account held in General Ledger. Shows the balance of monies OWED to suppliers etc. Debit = another payment owed to supplier. CR = payments made to supplier.
 Look at the Accounts Payable *Subledger* for details.
-Totals have to match between the two.
+
